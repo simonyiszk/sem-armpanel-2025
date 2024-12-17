@@ -61,24 +61,6 @@
 					(type background)
 				)
 			)
-			(pin power_in line
-				(at 1.27 -26.67 90)
-				(length 2.54)
-				(name "PAD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
 				(at -17.78 10.16 0)
 				(length 2.54)
@@ -562,6 +544,24 @@
 				(alternate "TIM8_CH2N_1" bidirectional line)
 				(alternate "USART3_RX_2" bidirectional line)
 				(alternate "USART8_TX_1" bidirectional line)
+			)
+			(pin power_in line
+				(at 1.27 -26.67 90)
+				(length 2.54)
+				(name "PAD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
 			)
 			(pin bidirectional line
 				(at -17.78 5.08 0)
