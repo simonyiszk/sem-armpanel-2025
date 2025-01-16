@@ -5,10 +5,10 @@
 	(uuid "3ef41fba-c582-47d1-87c6-b4f77528e269")
 	(paper "A4")
 	(title_block
-		(title "One dollar ARM devboard")
-		(date "2024-11-19")
+		(title "SEM tanfolyam panel 2025")
+		(date "2025-01-16")
 		(rev "C")
-		(company "Weisz Pál")
+		(company "Weisz Pál, Horváth Kristóf")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
